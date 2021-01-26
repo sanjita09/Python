@@ -1,4 +1,5 @@
 #School Administration
+#I added the 'info.csv' file
 
 import csv
 
